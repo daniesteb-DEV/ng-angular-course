@@ -1,5 +1,5 @@
 import { Component, signal } from '@angular/core';
-import { GifList } from '../../components/gif-list/gif-list';
+import { GifList } from '../../components/gif-list/gif-list.component';
 
 const imageUrls: string[] = [
   "https://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg",
