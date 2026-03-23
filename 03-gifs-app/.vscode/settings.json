@@ -4,5 +4,6 @@
       "externalTemplate": true,
       "skipStyle": true
     }
-  }
+  },
+  "snyk.advanced.autoSelectOrganization": true
 }
